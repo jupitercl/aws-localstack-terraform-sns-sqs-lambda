@@ -20,7 +20,6 @@ Terraform
 $ cd terraform
 $ terraform init
 $ terraform apply
-$ aws sqs send-message --queue-url $(terraform output sqs_url) --message-body "hello, world"
 ```
 
 List SNS
