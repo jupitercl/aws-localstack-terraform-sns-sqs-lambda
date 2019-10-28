@@ -2,6 +2,9 @@
 
 Example on how to create a AWS Lambda triggered by SQS and SQS subscribe to SNS by Terraform
 
+## Flow
+
+![Flow Diagram](http://jupitercl.github.io/aws-localstack-terraform-sns-sqs-lambda/flow-sns-sqs-lambda.svg)
 
 ## Usage
 
