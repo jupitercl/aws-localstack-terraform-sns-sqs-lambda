@@ -1,4 +1,4 @@
-# terraform-sqs-lambda-trigger-example
+# aws-localstack-terraform-sns-sqs-lambda
 
 Example on how to create a AWS Lambda triggered by SQS and SQS subscribe to SNS by Terraform
 
